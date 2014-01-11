@@ -1,0 +1,9 @@
+package MMC;
+
+public class AlgorithmicComposition {
+
+	public AlgorithmicComposition() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
