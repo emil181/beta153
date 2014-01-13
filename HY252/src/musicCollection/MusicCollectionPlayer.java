@@ -1,9 +1,13 @@
 package musicCollection;
 
+import java.util.ArrayList;
+
 import interfaces.Control;
 import interfaces.Playback;
 
 public class MusicCollectionPlayer implements Playback,Control {
+	private ArrayList<Collection> collection;
+	
 
 	@Override
 	public void Play() {
